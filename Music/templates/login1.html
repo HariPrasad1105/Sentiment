@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title></title>
+	{% load staticfiles %}
+	<link rel="stylesheet" type="text/css" href="{% static 'css/bootstrap.min.css' %}">
+    <style>
+        input
+        {
+         -moz-border-radius: 15px;
+          border-radius:10px;
+          border:solid 1px black;
+          padding:5px;
+
+        }
+
+		     input[type="submit"] {
+					  width:70px;
+					  height:26px;
+					  font-family:Arial, sans-serif;
+					  font-size:15px;
+					  color:#fff;
+					  text-decoration:none;
+					  text-transform:uppercase;
+					  text-align:center;
+					  text-shadow:1px 1px 0px #37a69b;
+					  margin: 29px 0 0 29px;
+					  position:relative;
+					  cursor:pointer;
+					  border: none;
+					  background-color: #6099BF;
+					  background-image: linear-gradient(top,#3db0a6,#3111);
+					  border-top-left-radius: 5px;
+					  border-top-right-radius: 5px;
+					  border-bottom-right-radius: 5px;
+					  border-bottom-left-radius:5px;
+					  box-shadow: inset 0px 1px 0px #2ab7ec, 0px 5px 0px 0px #497a78, 0px 10px 5px #999;
+					  margin-right: 30px;
+					}
+
+					.shadow {
+					  background: #000;
+					  border-radius: 12px 12px 4px 4px;
+					  box-shadow: 0 0 20px 10px #000;
+					  height: 12px;
+					  margin: 30px auto;
+					  opacity: 0.2;
+					  width: 270px;
+					}
+
+					input[type="submit"]:active {
+					  top:3px;
+					  box-shadow: inset 0px 1px 0px #2ab7ec, 0px 2px 0px 0px #31524d, 0px 5px 3px #999;
+					}
+		</style>
+		<meta name="google-signin-scope" content="profile email">
+		<script src="https://apis.google.com/js/platform.js" async defer></script>
+		<meta name="google-signin-client_id" content="307922335891-mvtjactvi5f52a1pu8rvb7tjp1ncll9b.apps.googleusercontent.com"
+</head>
+
+<body>
+  	{% load static %}
+  	<img src="{% static "images/Latest2.jpg" %}" alt="TwitterPage" style="width: 1550px;height: 115px">
+  	<br>
+		<p style="text-align: right; margin-top:5px; font-size: 15px; margin-right: 10px;">No SentiTweet account yet?<a href="signup/" style="color:blue; font-size: 18px"> Sign Up </a></p>
+  	<br>
+		<p style="text-align: center; font-size: 40px;">Login</p>
+		<p style="text-align: center; font-size: 21px;">Sign-in With Your Registered E-mail</p>
+		<br>
+  	<center><div style="font-size: 17px; border: 3px solid black; margin-left: 500px; margin-right: 500px; padding-top: 35px; padding-bottom: 25px;background-color:#fff">
+
+      	<form action="auth/" method="post">
+
+      		{% csrf_token %}
+
+      		<label for="email"></label> <input type="text" name="emailid" id="email" placeholder="Email" required style="width: 285px"><br><br>
+      		<label for="pass"> </label> <input type="password" name="password" id="pass" placeholder="Password" required style="width: 285px"><br>
+      		<input type="submit" name="login" value="Log In" >
+
+      	</form>
+  		<br>
+  		<a href="forgot/">Trouble logging in?</a>
+  	</div>
+  	</center>
+  	<br>
+  	{% if error == 'Invalid Input credentials' %}
+  		<center>
+					<p style="font-size: 22px; color: red">Access Denied : Invalid Credentials</p>
+			</center>
+  	{% endif%}
+</body>
+</html>

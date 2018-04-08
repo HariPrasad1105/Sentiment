@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+  
+        var data = google.visualization.arrayToDataTable([
+          ['Tweets', 'No of Tweets'],
+          ['Positive',  {{ positive }}],
+          ['Negative',  {{ negative }}],
+          ['Neutral',  {{ neutral }}]
+        ]);
+
+        var options = {
+          title: 'Sentiment of Users',
+          is3D: true,
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    {% load static %}
+    <img src="{% static 'images/Latest.jpg' %}" alt="Twitter Image" style="width: 1550px; height: 115px">
+    <div id="piechart" style="width: 1000px; height: 750px;"></div>
+  </body>
+</html>

@@ -1,0 +1,5 @@
+wordcloud_ = WordCloud(background_color='white', max_font_size=40, scale=3, random_state=None).generate(str(df1["sentiment"]))
+        fig = plt.figure(1, figsize=(12, 12))
+        plt.axis('off')
+        plt.imshow(wordcloud_)
+        plt.show()

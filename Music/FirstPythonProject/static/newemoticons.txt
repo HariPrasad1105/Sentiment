@@ -1,0 +1,339 @@
+:-)  Positive
+:)  Positive
+:o)  Positive
+:]  Positive
+:3  Positive
+:c)  Positive
+:>  Positive
+=]  Positive
+8)  Positive
+=)  Positive
+:}  Positive
+:^)  Positive
+Positive
+Positive
+:D  Extremely-Positive
+C:  Extremely-Positive
+Extremely-Positive
+Extremely-Positive
+:-D  Extremely-Positive
+:D  Extremely-Positive
+8D  Extremely-Positive
+xD  Extremely-Positive
+XD  Extremely-Positive
+=D  Extremely-Positive
+=3  Extremely-Positive
+<=3  Extremely-Positive
+<=8  Extremely-Positive
+Extremely-Positive
+Extremely-Positive
+8===D  Negative
+8===B  Negative
+Negative
+Negative
+--!--  Negative
+Negative
+Negative
+:-(  Negative
+:(  Negative
+:c  Negative
+:<  Negative
+:[  Negative
+:{  Negative
+Negative
+Negative
+D:  Extremely-Negative
+D8  Extremely-Negative
+D;  Extremely-Negative
+D=  Extremely-Negative
+DX  Extremely-Negative
+v.v  Extremely-Negative
+Dx  Extremely-Negative
+Extremely-Negative
+ Extremely-Negative
+:-9  Negative
+Negative
+Negative
+;-)  Positive
+;)  Positive
+*)  Positive
+;]  Positive
+;D  Positive
+Positive
+  Positive
+:-P  Positive
+:P  Positive
+XP  Positive
+:-p  Positive
+:p  Positive
+=p  Positive
+xP  Positive
+:-b  Positive
+:b  Positive
+Positive
+  Positive
+:-O  Positive
+:O  Positive
+O_O  Positive
+o_o  Positive
+OwO  Positive
+O-O  Positive
+0_o  Positive
+O_o  Positive
+O3O  Positive
+o0o  Positive
+;o_o;  Positive
+o...o  Positive
+0w0  Positive
+Positive
+  Positive
+c.c  Negative
+C.C  Negative
+Negative
+  Negative
+:-/  Negative
+:/  Negative
+:\  Negative
+=/  Negative
+=\  Negative
+:S  Negative
+Negative
+  Negative
+:|  Neutral
+Neutral
+  Neutral
+d:-)  Positive
+qB-)  Positive
+Positive
+  Positive
+:)~  Neutral
+:-)>....  Neutral
+Neutral
+  Neutral
+:-X  Positive
+:X  Positive
+:-#  Positive
+:#  Positive
+:-x  Positive
+:x  Positive
+Positive
+  Positive
+O:-)  Negative
+0:3  Negative
+O:)  Negative
+Negative
+  Negative
+:'(  Negative
+;*(  Negative
+T_T  Negative
+TT_TT  Negative
+T.T  Negative
+Q.Q  Negative
+Q_Q  Negative
+;_;  Negative
+Negative
+  Negative
+:-*  Positive
+:*  Positive
+Positive
+  Positive
+^o)  Negative
+Negative
+  Negative
+>:)  Neutral
+>;)  Neutral
+>:-)  Neutral
+Neutral
+  Neutral
+B)  Neutral
+B-)  Neutral
+8)  Neutral
+8-)  Neutral
+Neutral
+  Neutral
+^>.>^  Negative
+^<.<^  Negative
+^>_>^  Negative
+^<_<^  Negative
+Negative
+  Negative
+D:<  Negative
+>:(  Negative
+D-:>  Negative
+>:-(  Negative
+:-@[1]  Negative
+;(  Negative
+`_'  Negative
+D<  Negative
+Negative
+  Negative
+<3  Positive
+<333  Positive
+Positive
+  Positive
+</3	Negative
+  Negative
+=^_^=  Positive
+=>.>=  Positive
+=<_<=  Positive
+=>.<=  Positive
+Positive
+  Positive
+\,,/  Extremely-Positive
+\m/  Extremely-Positive
+Extremely-Positive
+  Extremely-Positive
+\m/\>.</\m/  Extremely-Positive
+Extremely-Positive
+  Extremely-Positive
+\o/  Extremely-Positive
+Extremely-Positive
+  Extremely-Positive
+\o  Positive
+o/  Positive
+Positive
+  Positive
+d'-'  Positive
+d'_'  Positive
+d'-'b  Positive
+b'_'b  Positive
+Positive
+  Positive
+o/\o  Positive
+Positive
+  Positive
+:&  Extremely-Negative
+Extremely-Negative
+  Extremely-Negative
+:u  Neutral
+Neutral
+  Neutral
+@}-;-'---  Positive
+Positive
+  Positive
+3:00  Positive
+Positive
+  Positive
+=]:-)=  Neutral
+Neutral
+  Neutral
+d^_^b  Positive
+d-_-b  Positive
+Positive
+  Positive
+(^_^)  Positive
+(^-^)  Positive
+(^=^)  Positive
+(^.^)  Positive
+Positive
+  Positive
+(~_^)  Positive
+(^_~)  Positive
+~.^  Positive
+^.~  Positive
+Positive
+  Positive
+(>.<)  Negative
+(>.<)  Negative
+Negative
+  Negative
+(>_>)  Negative
+(<_<)  Negative
+Negative
+  Negative
+(-_-)  Negative
+Negative
+  Negative
+(^o^)  Positive
+Positive
+  Positive
+(^3^)  Positive
+Positive
+  Positive
+(^_^')  Negative
+^_^_^')  Negative
+^^"  Negative
+^^^_.^')  Negative
+^^_^^;  Negative
+^&^^.^;&  Negative
+^^^;  Negative
+^^^7  Negative
+Negative
+  Negative
+d(>w<)b  Extremely-Positive
+Extremely-Positive
+  Extremely-Positive
+q(;^;)p	Extremely-Negative
+  Extremely-Negative
+9(x.x)9  Negative
+(;.;)9  Negative
+Negative
+  Negative
+(._.)  Negative
+(,.,)  Negative
+Negative
+  Negative
+[(-_-)]  Neutral
+ZZzzz...  Neutral
+Neutral
+  Neutral
+(X_X)  Negative
+x_x  Negative
+Negative
+  Negative
+^///^  Positive
+>///<  Positive
+>///>  Positive
+o///o  Positive
+-///-  Positive
+=///=  Positive
+Positive
+  Positive
+_|_  Negative
+(-.-)  Negative
+_|_  Negative
+t(>.<t)  Negative
+Negative
+  Negative
+(V)!_!(V)  Neutral
+Neutral
+  Neutral
+0v0  Extremely-Positive
+Extremely-Positive
+  Extremely-Positive
+\m/*.*\m/  Extremely-Positive
+Extremely-Positive
+  Extremely-Positive
+O?O  Negative
+Negative
+  Negative
+&_&  Positive
+Positive
+  Positive
+0-0  Positive
+Positive
+  Positive
+(^^^)  Negative
+Negative
+  Negative
+(\_/)  Positive
+Positive
+  Positive
+B)  Positive
+Positive
+  Positive
+B(	Negative
+  Negative
+X3  Extremely-Positive
+:3  Positive
+x_O  Negative
+O_x  Negative
+O|-|_  Positive
+orz  Positive
+m(_-_)m	Positive
+/\_/\  Neutral
+/\  Positive
+_/\_  Positive
+_/-\_  Positive
+/\/\  Positive
+

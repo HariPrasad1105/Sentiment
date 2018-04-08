@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    {% load staticfiles %}
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+    <meta charset="utf-8">
+    <title>
+    </title>
+  </head>
+  <body>
+    {% load static %}
+    <img src="{% static 'images\Latest.jpg' %}" alt="Twitter Image" style="width: 1550px;height: 115px">
+    <p></p>
+    <form class="" action="downloaded1/" method="post">
+
+      {% csrf_token %}
+
+      <button type="submit" name="keyword" value="iphonex" class="btn btn-default" style="font-size: 24px; width:120px;height:45px;background-color:lightskyblue;padding-top:2px;margin-top: 175px;margin-left: 250px;margin-right: 100px">IPhoneX</button>
+      <button type="submit" name="keyword" value="s9" class="btn btn-default" style="font-size: 24px; width:250px;height:45px;background-color:lightskyblue;padding-top: 2px;margin-top: 175px;margin-right: 100px">Samsung Galaxy S9</button>
+      <button type="submit" name="keyword" value="oneplus" class="btn btn-default" style="font-size: 24px; width:180px;height:45px;background-color:lightskyblue;padding-top: 2px;margin-top: 175px;margin-right: 100px">One Plus One</button>
+      <button type="submit" name="keyword" value="macbook" class="btn btn-default" style="font-size: 24px; width:180px;height:45px;background-color:lightskyblue; padding-top: 2px;margin-top: 175px">Macbook Pro</button>
+
+    </form>
+    </body>
+</html>
